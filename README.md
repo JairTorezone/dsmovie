@@ -1,5 +1,5 @@
 # DSMovie
-![NPM](https://img.shields.io/npm/l/react)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JairTorezone/dsmovie/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -75,5 +75,5 @@ yarn start
 # Autor
 Jair Torezone Euzebio Ribeiro
 
-https://www.linkedin.com/in/jairtorezone
+https://www.linkedin.com/in/jair-torezone/
 
