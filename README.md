@@ -27,7 +27,6 @@ A aplicação consiste em uma pesquisa de preferência de catalagos de filmes, o
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
 - Apex Charts
 - Expo
 ## Implantação em produção
