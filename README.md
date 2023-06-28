@@ -7,7 +7,7 @@ https://dsmovie-torezone.netlify.app/
 
 DSMovie é uma aplicação full stack web e mobile construída durante a edição da **Semana DevSuperior** (#sds), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de catalagos de filmes, onde os dados podemos fazer a avaliação de cada filme, e depois são listados no app web a availação de cada filme.
+A aplicação consiste em uma pesquisa de preferência de catalagos de filmes, onde os dados podemos fazer a avaliação de cada filme, e depois são listados no app web a availação de cada filmes.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/JairTorezone/dsmovie/blob/main/frontend/src/assets/img/DSMoive-mobile01.png) 
